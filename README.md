@@ -1,4 +1,4 @@
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/xxx.jpg" alt="">
+
 
 ### Hi there 👋
 
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+
+<img src="https://github.com/rajivsuting/rajivsuting/blob/main/6a06239672-CAST_cover.jpg" alt="">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
 
