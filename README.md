@@ -1,4 +1,4 @@
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/photo.jfif" alt="">
+<img src="https://github.com/rajivsuting/rajivsuting/blob/main/xxx.jpg" alt="">
 
 ### Hi there 👋
 
