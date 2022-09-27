@@ -7,6 +7,11 @@
 
 Here are some ideas to get you started:
 
+
+<h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+
+<img src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif" alt="">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,11 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="">
-
 
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
