@@ -1,22 +1,12 @@
 <!-- ![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Untitled-1.jpg) -->
 
-
-
-
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 
-
-
-
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
-
 - 👨‍💻 All of my projects are available at [https://rajivsuting.github.io](https://rajivsuting.github.io)
-
 - 📫 How to reach me **rajivsuting@gmail.com**
-- 
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)
 <p align="left"> <img src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif" alt=""> </p> 
 
