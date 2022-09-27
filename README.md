@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/6a06239672-CAST_cover.jpg" alt="">
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="">
 
 
 
