@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/rajivsuting/rajivsuting/blob/main/6a06239672-CAST_cover.jpg" alt="">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **rajivsuting@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
