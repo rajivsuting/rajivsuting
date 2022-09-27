@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif" alt="">
+
 
 
 
@@ -15,8 +15,11 @@
 - 👨‍💻 All of my projects are available at [https://rajivsuting.github.io](https://rajivsuting.github.io)
 
 - 📫 How to reach me **rajivsuting@gmail.com**
+- 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)
+
+<!-- <p align="left"> <img src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif" alt=""> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
 
