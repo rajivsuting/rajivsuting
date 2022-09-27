@@ -38,15 +38,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Mriganka}/count.svg" /></p> 
-<br></div>
-
-<p align="center">
-<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
-</p>
-<br>
 
 
 
@@ -56,3 +47,14 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&locale=en" alt="rajivsuting" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-Mriganka}/count.svg" /></p> 
+<br></div>
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+</p>
+<br>
