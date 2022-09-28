@@ -8,7 +8,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-suting-86630b23b/)
 [![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rajiv)
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
