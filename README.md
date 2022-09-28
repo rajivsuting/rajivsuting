@@ -57,7 +57,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=xcode" height ="307"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
 
