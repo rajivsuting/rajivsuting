@@ -116,7 +116,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
