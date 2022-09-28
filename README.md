@@ -48,14 +48,14 @@
 <br><br>
 <h2><i>My Github Stats</i><h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&theme=gotham" alt="Sanjan Yadav" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&theme=gotham" alt="rajivsutng" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&theme=gotham" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsuting&theme=gotham&langs_count=8" alt="rajivsuting" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
