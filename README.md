@@ -13,7 +13,7 @@
 
 ### What I'm focusing on 👨‍
 
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif">
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
 
 - 🌱 I’m currently learning **Java**
 -  👯 I’m looking forward to collaborate with other developer
