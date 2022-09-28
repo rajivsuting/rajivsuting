@@ -72,7 +72,7 @@
 <br></div>
 
 <p align="center">
-<img align="center" width="90%" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img align="center" width="90%" height='120px' src="https://github.com/rajivsuting/rajivsuting/blob/main/thumb.gif" />
 </p>
 <br>
 
