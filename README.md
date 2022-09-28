@@ -61,7 +61,7 @@
 
 
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+<h2 align="left"> 💻 <i>Languages and Tools:</i></h2>
 
 <table align="center">
   <tr>
@@ -111,7 +111,7 @@
   </tr>
 </table>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/line.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
 
