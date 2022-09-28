@@ -58,7 +58,7 @@
 
 
 
-<h2 align="left"><i>Languages and Tools:</i></h2>
+<i>Languages and Tools:</i>
  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode,npm)](https://skillicons.dev)
 
