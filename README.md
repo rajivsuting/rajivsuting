@@ -4,6 +4,12 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 
+[![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rajivsuting.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-suting/)
+[![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rajiv)
+
+
+
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
 - 📫 How to reach me **rajivsuting@gmail.com**
