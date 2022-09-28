@@ -1,4 +1,4 @@
-<!-- ![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Untitled-1.jpg) -->
+
 
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center"><i>A passionate backend developer from India</i></h3>
