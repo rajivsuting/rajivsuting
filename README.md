@@ -62,7 +62,7 @@
 
 
 
-<h2 align="left"> 💻 <i>Languages and Tools:</i></h2>
+<h2 align="left"><i>Languages and Tools:</i></h2>
 
 <div align="center">
  
@@ -83,7 +83,7 @@
 <br></div>
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+<img align="center" width="90%" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
 <br>
 
