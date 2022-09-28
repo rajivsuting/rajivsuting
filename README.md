@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rajivsuting.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-suting-86630b23b/)
@@ -12,7 +14,7 @@
 ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ### What I'm focusing on 👨‍
 
@@ -28,12 +30,12 @@
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)**
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +43,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <h2><i>My GitHub Stats</i></h2>
 
@@ -55,13 +57,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=xcode" height ="307"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
@@ -117,7 +112,6 @@
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
 
@@ -135,4 +129,4 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
