@@ -103,8 +103,6 @@
   </tr>
 </table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&locale=en" alt="rajivsuting" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
 
 
