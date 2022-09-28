@@ -72,7 +72,7 @@
 <br></div>
 
 <p align="center">
-<img align="center" width="90%" height='320px' src="https://github.com/rajivsuting/rajivsuting/blob/main/thumb.gif" />
+<img align="center" width="96%" height='320px' src="https://github.com/rajivsuting/rajivsuting/blob/main/thumb.gif" />
 </p>
 <br>
 
