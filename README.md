@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h1><i>What I'm focusing on 👨‍</i><h1>
+<h1><i>What I'm focusing on 👨‍</i></h1>
 
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
 
