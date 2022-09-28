@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
 <h3 align="center"><i>A passionate backend developer from India</i></h3>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/line.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rajivsuting.github.io)
@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/line.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <h2><i>My GitHub Stats</i></h2>
@@ -57,7 +57,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=xcode" height ="307"/>
 
-<img src="https://github.com/rajivsuting/rajivsuting/blob/main/line.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 
