@@ -21,13 +21,13 @@
 
 <p>
     
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhitim&show_icons=true&locale=en&theme=dark" alt="abhitim"  height="139" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&locale=en&theme=dark" alt="rajivsuting"  height="139" />
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rajivsuting" height="139" />
 
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=abhitim&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=xcode" height ="307"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
