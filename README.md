@@ -1,7 +1,7 @@
 <!-- ![](https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Untitled-1.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center"><i>A passionate backend developer from India</i></h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-### What I'm focusing on 👨‍
+<h1><i>What I'm focusing on 👨‍</i><h1>
 
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
 
@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" height="30" width="40" /></a>
 </p>
