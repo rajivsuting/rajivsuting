@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h1><i>What I'm focusing on 👨‍</i></h1>
+<h2><i>What I'm focusing on 👨‍</i></h2>
 
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
 
@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h3 align="left"><i>Connect with me:</i></h3>
+<h2 align="left"><i>Connect with me:</i></h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" height="30" width="40" /></a>
 </p>
@@ -48,13 +48,13 @@
 <br><br>
 <h2><i>My Github Stats</i><h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&theme=radical" alt="Sanjan Yadav" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&theme=gotham" alt="Sanjan Yadav" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&theme=gotham" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsuting&theme=radical&langs_count=8" alt="rajivsuting" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsuting&theme=gotham&langs_count=8" alt="rajivsuting" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
