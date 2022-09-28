@@ -11,11 +11,15 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 
+### What I'm focusing on 👨‍💻
+
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif">
+
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Hibernate, AWS**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
 - 📫 How to reach me **rajivsuting@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)**
- <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif">
+ 
 
 <p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
 
