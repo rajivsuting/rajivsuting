@@ -45,20 +45,18 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<h2><i>My GitHub Stats</i></h2>
-
-<p>
-    
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajivsuting&show_icons=true&locale=en&theme=dark" alt="rajivsuting"  height="139" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rajivsuting" height="139" />
-
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=xcode" height ="307"/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivsuting&" alt="rajivsuting" /></p>
+<br><br>
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanyadav420&theme=radical" alt="Sanjan Yadav" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjanyadav420&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanyadav420&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=sanjanyadav420&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
