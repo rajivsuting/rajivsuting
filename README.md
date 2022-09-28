@@ -10,8 +10,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)
 <p align="left"> <img src="https://github.com/rajivsuting/rajivsuting/blob/main/thoughtworks-gif_dribbble.gif" alt=""> </p> 
 
-<p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p>
-
+<!-- <p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" /></a> </p> -->
+<img align="right" alt="Coding" width="400" src="https://github-profile-trophy.vercel.app/?username=rajivsuting" alt="rajivsuting" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajiv-suting-86630b23b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bjmho8unlt8%2bk%2f6ds5yo1zw%3d%3d" height="30" width="40" /></a>
