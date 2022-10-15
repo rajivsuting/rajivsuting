@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Rajiv Suting</h1>
+<h1 align="center"><i>Hi 👋, I'm Rajiv Suting</i></h1>
 <h3 align="center"><i>A passionate backend developer from India</i></h3>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
