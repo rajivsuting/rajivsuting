@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I love to sing
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
 - 📫 How to reach me **rajivsuting@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/10JDprpvE3GnVG7MJwmUcFm0q76O0KkTs/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1asUvcodueTTUICxbeMjjvGHb2kEx419y/view?usp=sharing)**
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
