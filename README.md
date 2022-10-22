@@ -39,7 +39,13 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<i>Languages and Tools:</i>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode,npm)](https://skillicons.dev)
 
+ 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>
 <h2><i>My Github Stats</i><h2>
@@ -57,13 +63,7 @@
 
 
 
-<i>Languages and Tools:</i>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode,npm)](https://skillicons.dev)
 
- 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 
