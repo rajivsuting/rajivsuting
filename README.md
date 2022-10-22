@@ -65,10 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rajivsuting}/count.svg" /></p> 
-<br></div>
+
 
 <p align="center">
 <img align="center" width="100%" height='220px' src="https://github.com/rajivsuting/rajivsuting/blob/main/bottom_header.svg" />
