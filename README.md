@@ -39,7 +39,7 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<i>Languages and Tools:</i>
+<h2><i>Languages and Tools:</i></h2>
  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode,npm)](https://skillicons.dev)
 
