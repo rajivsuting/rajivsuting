@@ -7,10 +7,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-[![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rajivsuting.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-suting-86630b23b/)
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086989725469)
-[![Linkedin Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rajiv_suting)
+
+  
+  <p align="center">
+	<a href="https://www.linkedin.com/in/rajiv-suting-86630b23b/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/rajiv_suting">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+   <a href="https://rajivsuting.github.io">
+		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+    <a href="mailto:rajivsuting@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+        <a href="https://www.facebook.com/profile.php?id=100086989725469">
+		<img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+</p>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
@@ -52,12 +67,21 @@
 
   <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> <img  src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black"> 
   
-   <h3>Deployment Platforms</h3>
-  <img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-003049?style=for-the-badge&logo=netlify&logoColor=white">
   
-   <h3>Others</h3>
+   <h3>Tools & Platflorms</h3>
   
-  <img src="https://img.shields.io/badge/VSCode-3498DB?style=for-the-badge&logo=visualstudiocode&logoColor=black"> <img src="https://img.shields.io/badge/GitHub-34495E?style=for-the-badge&logo=github&logoColor=white">
+  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-003049?style=for-the-badge&logo=amazon&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+ 
    </div> 
 
 
