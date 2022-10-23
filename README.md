@@ -66,7 +66,8 @@
 
 <div align="left">
   <a href="https://github.com/Aditi101049/1mg-clone">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivsuting&repo=https://github.com/Aditi101049/1mg-clone&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="rajivsuting" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditi101049
+&repo=https://github.com/Aditi101049/1mg-clone&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="rajivsuting" />
   </a>
 </div>
 
