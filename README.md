@@ -1,5 +1,5 @@
 
-
+<p align="center"><img src="animation.gif" width="35%"></p>
 <h1 align="center"><i>Hi 👋, I'm Rajiv Suting</i></h1>
 <h3 align="center"><i>A passionate backend developer from India</i></h3>
 
