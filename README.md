@@ -3,7 +3,7 @@
 <h1 align="center"><i>Hi 👋, I'm Rajiv Suting</i></h1>
 <h3 align="center"><i>A passionate backend developer from India</i></h3>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rajivsuting.github.io)
@@ -14,7 +14,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
 <h2><i>What I'm focusing on 👨‍</i></h2>
@@ -30,7 +30,7 @@
 - 📫 How to reach me **rajivsuting@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1asUvcodueTTUICxbeMjjvGHb2kEx419y/view?usp=sharing)**
  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
 <p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting&theme=tokyonight" alt="rajivsuting" /></a> </p>
@@ -38,14 +38,14 @@
 
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <h2><i>Languages and Tools:</i></h2>
  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode,npm)](https://skillicons.dev)
 
  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <br><br>
 <h2><i>My Github Stats</i><h2>
@@ -59,7 +59,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivsuting&theme=gotham&langs_count=8" alt="rajivsuting" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rajivsuting&theme=gotham&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
 
@@ -72,5 +72,5 @@
 </p>
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
