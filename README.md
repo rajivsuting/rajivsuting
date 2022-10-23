@@ -64,7 +64,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-
+<div align="left">
+  <a href="https://github.com/Aditi101049/1mg-clone">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajivsuting&repo=biblioteca-tcc&show_icons=true&bg_color=19,21D4FD,B721FF&title_color=fff&text_color=fff&icon_color=fff" alt="rajivsuting" />
+  </a>
+</div>
 
 
 
