@@ -27,7 +27,7 @@
 	</a>
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
+
 ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 </div>
 <p  align="center">
