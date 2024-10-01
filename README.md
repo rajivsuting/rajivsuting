@@ -34,14 +34,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-<h2><i>What I'm focusing on 👨‍</i></h2>
+<h2><i>ABOUT ME 👨‍</i></h2>
 
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I am a Full Stack Developer(Freelancer)
 -  👯 I’m looking forward to collaborate with other developer
-- 🥅 Goals: Make projects and contribute to Open Source
+- 🥅 Goals: collaboration in fast-paced environments, with a
+commitment to delivering exceptional customer service
+and staying updated with the latest industry trends.
 - ⚡ Fun fact: I love to sing
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
 - 📫 How to reach me **rajivsuting@gmail.com**
