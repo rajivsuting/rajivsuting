@@ -34,6 +34,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
+It seems the bullet points are not displaying correctly due to missing spaces between the * and the text. Here's the corrected version with proper formatting:
+
+<h2><i>About Me</i></h2> <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
+
 - 🌱 **Full Stack Developer (Freelancer)** with a passion for creating scalable and efficient web applications.
 - 👯 Actively seeking opportunities to **collaborate** with developers in dynamic, fast-paced environments.
 - 🥅 **Goals**: Deliver high-quality solutions, ensure exceptional customer service, and stay updated with the latest industry trends.
