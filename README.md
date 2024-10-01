@@ -34,20 +34,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-<h2><i>ABOUT ME 👨‍</i></h2>
-
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
-
-
-- 🌱 I am a Full Stack Developer(Freelancer)
--  👯 I’m looking forward to collaborate with other developer
-- 🥅 Goals: collaboration in fast-paced environments, with a
-commitment to delivering exceptional customer service
-and staying updated with the latest industry trends.
-- ⚡ Fun fact: I love to sing
-- 👨‍💻 All of my projects are available at **[Portfolio](https://rajivsuting.github.io)**
-- 📫 How to reach me **rajivsuting@gmail.com**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/18mza1LvHuV0qfQ4oaBBceiakTUtoHbU4/view?usp=sharing)**
+<h2><i>About Me</i></h2> <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
+🌱 I’m a passionate Full Stack Developer and Freelancer with a keen interest in building scalable and efficient web applications.
+👯 I’m always open to collaborating with fellow developers, especially in fast-paced and dynamic environments.
+🥅 Goals: To consistently deliver high-quality solutions, provide exceptional customer service, and stay updated with the latest tech trends.
+⚡ Fun Fact: When I’m not coding, you can find me singing!
+👨‍💻 Explore all my projects on my Portfolio.
+📫 Reach out to me at rajivsuting@gmail.com.
+📄 Learn more about my experience through my Resume.
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
