@@ -62,19 +62,29 @@
 
 <div align=center>
   <h3>Front End</h3>
+	
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind_Material-007FFF?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-559E2C?style=for-the-badge&logo=npm&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind_Material-007FFF?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
 
 
  <h3>Back End</h3>
 
-  <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> <img  src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> 
+<img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black"> 
+
+
   
   
    <h3>Tools & Platflorms</h3>
