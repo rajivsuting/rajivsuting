@@ -35,13 +35,13 @@
 
 
 <h2><i>About Me</i></h2> <img width="40%" align="right" alt="Coding Boy" src="https://github.com/rajivsuting/rajivsuting/blob/main/apple.gif">
-*🌱 I’m a passionate Full Stack Developer and Freelancer with a keen interest in building scalable and efficient web applications.
-*👯 I’m always open to collaborating with fellow developers, especially in fast-paced and dynamic environments.
-*🥅 Goals: To consistently deliver high-quality solutions, provide exceptional customer service, and stay updated with the latest tech trends.
-*⚡ Fun Fact: When I’m not coding, you can find me singing!
-*👨‍💻 Explore all my projects on my Portfolio.
-*📫 Reach out to me at rajivsuting@gmail.com.
-*📄 Learn more about my experience through my Resume.
+🌱 Full Stack Developer (Freelancer) with a passion for creating scalable and efficient web applications.
+👯 Actively seeking opportunities to collaborate with developers in dynamic, fast-paced environments.
+🥅 Goals: Deliver high-quality solutions, ensure exceptional customer service, and stay updated with the latest industry trends.
+⚡ Fun Fact: I have a love for singing when I’m not coding.
+👨‍💻 Check out my projects on my Portfolio.
+📫 Feel free to reach me at rajivsuting@gmail.com.
+📄 Explore my professional journey in my Resume.
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
