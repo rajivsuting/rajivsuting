@@ -4,33 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=8000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+RAJIV+SUTING+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Full+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="RAJIV SUTING" width="650" height="55">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-
-
-  
-  <p align="center">
-	<a href="https://www.linkedin.com/in/rajiv-suting-86630b23b/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/rajiv_suting">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-   <a href="https://rajivsuting.github.io">
-		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-    <a href="mailto:rajivsuting@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-        <a href="https://www.facebook.com/profile.php?id=100086989725469">
-		<img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>
-</p>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
-</div>
-<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
@@ -45,13 +19,6 @@
 - 🌐 Check out my projects on my **[Portfolio](https://rajivsuting.github.io)**.
 - 📧 Feel free to reach me at **rajivsuting@gmail.com**.
 - 📄 Explore my professional journey in my **[Resume](https://drive.google.com/file/d/18mza1LvHuV0qfQ4oaBBceiakTUtoHbU4/view?usp=sharing)**.
-
-
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-
-<p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting&theme=tokyonight" alt="rajivsuting" /></a> </p>
 
 
 
@@ -102,7 +69,38 @@
  
    </div> 
 
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+
+
+  
+  <p align="center">
+	<a href="https://www.linkedin.com/in/rajiv-suting-86630b23b/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/rajiv_suting">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+   <a href="https://rajivsuting.github.io">
+		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+    <a href="mailto:rajivsuting@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+        <a href="https://www.facebook.com/profile.php?id=100086989725469">
+		<img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+</p>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
+</div>
+<p  align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+
+<p align="left" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting&theme=tokyonight" alt="rajivsuting" /></a> </p>
  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
