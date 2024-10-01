@@ -3,8 +3,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=8000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+RAJIV+SUTING+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Full+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="RAJIV SUTING" width="650" height="55">
 
+<div align="center">  
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
   ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
+</div>div>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -23,6 +25,7 @@
 
   
   <h2><i>Connect With Me & Explore My Journey</i></h2>
+  
   
   <p>
     <a href="https://www.linkedin.com/in/rajiv-suting-86630b23b/">
