@@ -3,6 +3,9 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=8000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+RAJIV+SUTING+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Full+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="RAJIV SUTING" width="650" height="55">
 
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
+  ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h2><i>About Me</i></h2> 
@@ -17,7 +20,10 @@
   - 📄 Explore my professional journey in my **[Resume](https://drive.google.com/file/d/18mza1LvHuV0qfQ4oaBBceiakTUtoHbU4/view?usp=sharing)**.
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
   <h2><i>Connect With Me & Explore My Journey</i></h2>
+  
   <p>
     <a href="https://www.linkedin.com/in/rajiv-suting-86630b23b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,8 +77,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rajivsuting.visitor-badge.issue.1&title=Github%20Visitors)
-  ![Github Followers](https://img.shields.io/github/followers/rajivsuting?label=Github%20Connection&style=flat)
 
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajivsuting&theme=tokyonight" alt="rajivsuting" /></a>
